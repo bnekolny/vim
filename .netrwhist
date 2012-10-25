@@ -1,3 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/brett.nekolny/Dev/developer_vm/project/web-functional-test/selenium2/src/mapmyfitness'
+let g:netrw_dirhist_cnt =0
