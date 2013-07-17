@@ -1,2 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/brett.nekolny/Dev/developer_vm/project/panama/mmf/resource/management/commands'
+let g:netrw_dirhist_2='/Users/brett.nekolny/Dev/developer_vm/project/panama/fabfile'
+let g:netrw_dirhist_3='/Users/brett.nekolny/.virtualenvs/panama/src'
+let g:netrw_dirhist_4='/Users/brett.nekolny/Dev/developer_vm/project/panama/wsgiscripts'
+let g:netrw_dirhist_5='/Users/brett.nekolny/Dev/developer_vm/project/panama/build'
+let g:netrw_dirhist_6='/usr/bin'
+let g:netrw_dirhist_7='/Users/brett.nekolny/Dev/developer_vm/project/panama-integration/mmf/goal/models'
+let g:netrw_dirhist_8='/Users/brett.nekolny/mmf_bi/celery'
